@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://ibb.co.com/Z2t8sx3"  />
-</div>
+<img src="banner.png"  alt="indrawanal"  />
 
 ###
 
